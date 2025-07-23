@@ -48,10 +48,6 @@
 <!--END_SECTION:waka-->
 
 <h2 id="credits">Credits</h2>
-<ul>
-<li>Stats template inspired by <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a></li>
-<li>Badges by <a href="https://shields.io/">Shields.io</a></li>
-</ul>
 <hr>
 <p>Credit: <a href="https://github.com/manasborse">Manas Borse</a></p>
 <p>Last Updated: <!-- DATE --></p>
