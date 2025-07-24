@@ -13,7 +13,7 @@
 ---
 
 ## 💬 Ask me about  
-Python • Data Visualization • Entrepreneurial EdTech  
+Python • Data Visualization • Machine Learning • Entrepreneurial EdTech  
 
 ---
 
