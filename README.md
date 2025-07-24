@@ -18,7 +18,24 @@ Python • Data Visualization • Entrepreneurial EdTech
 ---
 
 ## 🔗 Connect with me  
-[LinkedIn](https://linkedin.com/in/manas7borse?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://twitter.com/yourprofile) | [Email](mailto:manasborse7@gmail.com) | [Portfolio](https://yourportfolio.com)
+<p>
+  <a href="https://linkedin.com/in/manas7borse?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:manasborse7@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio" width="30" height="30" />
+  </a>
+</p>
+
 
 ---
 
