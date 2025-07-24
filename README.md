@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Manas Borse  
+# Hi there 👋 I'm Manas Sandeep Borse  
 ### ML Builder • Data Storyteller • Edu-Innovator • Data Analyst
 
 ---
