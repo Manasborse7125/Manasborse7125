@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Manas Borse  
-### ML Builder • Data Storyteller • Edu-Innovator  
+### ML Builder • Data Storyteller • Edu-Innovator • Data Analyst
 
 ---
 
-🎓 **BTech Computer Science** @ NMIMS Shirpur | **Alumni** - IIT Bombay (Data Science)  
+🎓 **BTech Computer Science** @ NMIMS University
 🧠 Passionate about ML innovation & experiential education  
 🔥 Currently Building:  
 - 🌦️ **Celestial Compass** – AI-powered weather prediction system  
@@ -18,7 +18,7 @@ Python • Data Visualization • Entrepreneurial EdTech
 ---
 
 ## 🔗 Connect with me  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile) | [Email](mailto:manasborse7@gmail.com) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://linkedin.com/in/manas7borse?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://twitter.com/yourprofile) | [Email](mailto:manasborse7@gmail.com) | [Portfolio](https://yourportfolio.com)
 
 ---
 
