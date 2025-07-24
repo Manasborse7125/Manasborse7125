@@ -20,19 +20,19 @@ Python • Data Visualization • Entrepreneurial EdTech
 ## 🔗 Connect with me  
 <p>
   <a href="https://linkedin.com/in/manas7borse?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(37%) sepia(83%) saturate(918%) hue-rotate(181deg) brightness(97%) contrast(92%);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:manasborse7@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" alt="Portfolio" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio" width="30" height="30" />
   </a>
 </p>
 
