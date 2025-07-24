@@ -71,6 +71,8 @@ Python • Data Visualization • Entrepreneurial EdTech
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <!-- Kotlin -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
@@ -79,12 +81,12 @@ Python • Data Visualization • Entrepreneurial EdTech
   <!-- HTML5 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <!-- CSS3 -->
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png)" alt="CSS3" width="40" height="40"/>
-  <!-- Power BI (direct .svg) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>
-  <!-- Deep Learning (general neural net icon) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <!-- Deep Learning -->
   <img src="https://cdn-icons-png.flaticon.com/512/4544/4544607.png" alt="Deep Learning" width="40" height="40"/>
-  <!-- Machine Learning (ML brain icon) -->
+  <!-- Machine Learning -->
   <img src="https://cdn-icons-png.flaticon.com/512/5605/5605936.png" alt="Machine Learning" width="40" height="40"/>
   <!-- Scikit-learn -->
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/>
@@ -100,10 +102,11 @@ Python • Data Visualization • Entrepreneurial EdTech
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4544/4544607.png" alt="Deep Learning" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5605/5605936.png" alt="Machine Learning" width="40" height="40"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/>
 </p>
+
 
 
