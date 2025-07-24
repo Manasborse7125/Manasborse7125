@@ -81,4 +81,19 @@ Python • Data Visualization • Entrepreneurial EdTech
   <img src="https://www.svgrepo.com/show/473778/scikitlearn.svg" alt="Scikit-learn" width="40" height="40"/>
 </p>
 
+## 🚀 My Areas of Expertise:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-400711B95B-seeklogo.com.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://www.iconpacks.net/icons/2/free-deep-learning-diagram-icon-22173-thumb.png" alt="Deep Learning" width="40" height="40"/>
+  <img src="https://az-icons.com/icons/download/machine-learning/svg" alt="Machine Learning" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/473778/scikitlearn.svg" alt="Scikit-learn" width="40" height="40"/>
+</p>
 
